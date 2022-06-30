@@ -1,0 +1,212 @@
+
+.navend{
+    padding-left: 550px;
+    
+}
+
+
+
+.img1
+{
+    width: 250px;
+    height: 80px;
+}
+.img2
+{
+    height: 600px;
+    
+}
+
+.img3
+{
+    height: 600px;
+
+}
+
+.button2
+{
+    color: white;
+    background-color:rgb(110, 17, 197);
+    border: 2px solid rgb(110, 17, 197);
+    border-radius: 100px;
+    width: 200px;
+    height: 60px;
+}
+.button2:hover{
+    background-color: rgb(158, 90, 221);
+    border: 2px solid  rgb(158, 90, 221);
+}
+.section1{
+    padding-bottom: 150px;
+    margin-left:20px ;
+    text-align: left;
+
+
+}
+.section2{
+    padding-bottom: 100px;
+    margin-left:20px ;
+    text-align: left;
+}
+
+.colum1heading1
+{
+   color: rgb(85, 17, 148);
+}
+.colum1heading2
+{
+    color: rgb(137, 91, 180);
+}
+.column1button{
+    color: white;
+    background-color:rgb(110, 17, 197);
+    border: 2px solid rgb(110, 17, 197);
+    border-radius: 100px;
+    width: 200px;
+    height: 60px;
+}
+.column1button:hover{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid  rgb(80, 19, 138);
+    color: rgb(80, 19, 138);
+}
+.column1{
+    padding-left: 100px;
+}
+.column2{
+  margin-top: -60px;
+}
+.heading4
+{
+   color: rgb(78, 9, 143);
+   text-align: center;
+   padding-top: 60px;
+}
+span{
+    color: blueviolet;
+
+}
+.ourcourses{
+    background-color: rgb(244, 237, 252);
+    height: 2000px;
+   
+}
+
+.secondcol{
+    background-color: white;
+    
+    width: 573px;
+    height: 332px;
+padding: 46px;
+}
+.firstnav{
+    height: 50px;
+}
+.heading5{
+    color: rgb(87, 26, 145);
+}
+.firstcol
+{
+    width: 627px; 
+    height: 340px; 
+}
+.firstcolpic{
+    width: 533px;
+  
+}
+
+.commoncol
+{
+    width: 1256px;
+    padding-left: 100px;
+    
+   
+}
+
+#i7:hover{
+    box-shadow:  5px 1px 5px 10px  rgb(212, 198, 236);
+}
+
+.threeboxes{
+   margin-top: 20px;
+   margin-left: 30px;
+
+}
+#box1image{
+    width: 400px;
+    padding-left: 10px;
+}
+
+#box2image{
+    width: 400px;
+    padding-left: 10px;
+}
+#box3image{
+    width: 400px;
+    padding-left: 10px;
+}
+h5{
+   color: rgb(87, 26, 145);;
+}
+#threebuttons{
+    color: white;
+    background-color: rgb(80, 15, 141);
+    height: 40px;
+    border: 1px blueviolet solid;
+    width: 120px;
+}
+#box1:hover{
+ box-shadow: 3px 3px 3px 3px rgb(216, 198, 228);
+
+}
+
+#lastbutton
+{
+ margin-left: 548px;
+ background-color: rgb(252, 251, 253);
+ color: rgb(92, 11, 167);
+ border: 2px rgb(71, 12, 126) solid;
+ border-radius: 100px;
+ width: 160px;
+ height: 50px;
+}
+
+#lastbutton:hover
+{
+    color: white;
+    background-color: rgb(87, 25, 150);
+}
+#lastbutton1{
+    margin-left: 505px;
+    background-color: rgb(252, 251, 253);
+    color: rgb(92, 11, 167);
+    border: 2px rgb(71, 12, 126) solid;
+    border-radius: 100px;
+    width: 250px;
+    height: 50px;
+     
+}
+
+#lastbutton1:hover
+{
+    color: white;
+    background-color: rgb(87, 25, 150);
+}
+
+#a1{
+border: white solid 2px; 
+} 
+#label6{
+    height: 150px;
+}
+#a4{
+    border: white solid 2px; }
+    #a5{
+        border: white solid 2px; }
+        #a7{
+            border: white solid 2px; 
+        height: 250px;
+    width: 300px;}
+
+
+            
